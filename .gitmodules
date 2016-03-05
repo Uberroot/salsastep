@@ -1,0 +1,3 @@
+[submodule "launchsalsa"]
+	path = launchsalsa
+	url = https://github.com/Uberroot/launchsalsa.git
